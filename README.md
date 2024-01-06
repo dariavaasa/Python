@@ -1,3 +1,3 @@
 # Python
 
-Please find here some examples of my python projects.
+Please find here some examples of my Python projects.
